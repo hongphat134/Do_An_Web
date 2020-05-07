@@ -84,7 +84,7 @@
                 </div>
                 <div class=\"cart-btns\">
                     <a href=\"../cart.php\">Xem giỏ hàng</a>
-                    <a href=\"../checkout.php\">Thanh toán <i class=\"fa fa-arrow-circle-right\"></i></a>
+                    <a href=\"checkout.php\">Thanh toán <i class=\"fa fa-arrow-circle-right\"></i></a>
                 </div>
             </div>";
 ?>

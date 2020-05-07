@@ -127,7 +127,7 @@
 													Tổng cộng : '.(isset($total)?number_format($total,0,'',','):0).' đ
 											</div>
 											<div class="col-xs-3"> 
-												<a href="../checkout.php" class="primary-btn order-submit float-right">Thanh toán</a>
+												<a href="checkout.php" class="primary-btn order-submit float-right">Thanh toán</a>
 											</div>
 										</div>
 									</div>
